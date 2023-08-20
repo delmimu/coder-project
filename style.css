@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+.barra {
+  background-color: bisque;
+}
+
 h1 {
   background-color: aquamarine;
 }
